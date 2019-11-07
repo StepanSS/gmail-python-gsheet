@@ -1,1 +1,4 @@
 setup.py
+logfile.log
+help.py
+__pycache__/
