@@ -12,7 +12,6 @@ def test_fun():
     string = '{ "name":"John", "age":30, "city":"New York"}'
     try:
         new_dict = json.loads(string)
-        # print(type(string))
         # print(type(new_dict))
     except BaseException:
         import sys
